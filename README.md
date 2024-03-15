@@ -17,3 +17,12 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Quy tắt đặt tên biến 
+-Viết thường chữ đầu tiên , Chữ cái đầu của chữ sau viết Hoa
+ vd: userName , productsName 
+
+
+
+Phân công model 
+
